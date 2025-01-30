@@ -19,4 +19,4 @@ MIT License
 Las contribuciones son bienvenidas. Para cambios importantes, por favor abre un issue primero para discutir qué te gustaría cambiar.
 
 ---
-Creado con ❤️ por [Keury David]:![image](https://github.com/user-attachments/assets/00d7e540-e153-4f9c-80b5-556c974b53c7)
+Creado por [Keury David https://github.com/Keurydl]:![image](https://github.com/user-attachments/assets/00d7e540-e153-4f9c-80b5-556c974b53c7)
