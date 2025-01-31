@@ -1,3 +1,6 @@
+##  Informacion
+
+Simula una batería eléctrica.
 
 ## 🎨 Personalización
 
