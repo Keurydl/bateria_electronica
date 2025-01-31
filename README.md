@@ -1,6 +1,6 @@
-##  Informacion
+##  📕Informacion
 
-Simula una batería eléctrica.
+Simula una batería eléctrica🎧.
 
 ## 🎨 Personalización
 
