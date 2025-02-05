@@ -1,25 +1,25 @@
-##  📕Informacion
+## 📕 Information
 
-Simula una batería eléctrica🎧.
+Simulates an electric drum pad 🎧.
 
-## 🎨 Personalización
+## 🎨 Customization
 
-Cada pad tiene su propio color y efecto visual:
-- Efectos de brillo al pasar el mouse
-- Animación al presionar
-- Gradientes únicos para cada pad
+Each pad has its own color and visual effects:
+- Glow effects on hover
+- Press animation
+- Unique gradients for each pad
 
 ## 📱 Demo
 
-[Ver Demo en Vivo](https://peppy-axolotl-d5fe82.netlify.app/)
+[View Live Demo](https://peppy-axolotl-d5fe82.netlify.app/)
 
-## 📝 Licencia
+## 📝 License
 
 MIT License
 
-## 🤝 Contribuciones
+## 🤝 Contributions
 
-Las contribuciones son bienvenidas. Para cambios importantes, por favor abre un issue primero para discutir qué te gustaría cambiar.
+Contributions are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
-Creado por [Keury David https://github.com/Keurydl]:![image](https://github.com/user-attachments/assets/00d7e540-e153-4f9c-80b5-556c974b53c7)
+Created by [Keury David https://github.com/Keurydl]: ![image](https://github.com/user-attachments/assets/00d7e540-e153-4f9c-80b5-556c974b53c7)
