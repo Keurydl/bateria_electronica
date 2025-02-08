@@ -1,13 +1,13 @@
-## 📕 Information
+## 📕 Information 
 
 Simulates an electric drum pad 🎧.
 
 ## 🎨 Customization
 
 Each pad has its own color and visual effects:
-- Glow effects on hover
-- Press animation
-- Unique gradients for each pad
+-> Glow effects on hover
+-> Press animation
+-> Unique gradients for each pad
 
 ## 📱 Demo
 
